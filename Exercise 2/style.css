@@ -1,0 +1,82 @@
+html {
+
+    font-family: sans-serif;
+  
+  }
+  
+  body {
+  
+    width: 70%;
+  
+    max-width: 960px;
+  
+    margin: 20px auto;
+  
+  }
+  
+  button {
+  
+    font-size: 18px;
+  
+    line-height: 1.5;
+  
+    width: 15%;
+  
+    margin: 3px;
+  
+  }
+  
+  div {
+  
+    height: 100px;
+  
+    /* border: 1px solid black; */
+  
+  }
+  
+  div {
+  
+    display: flex;
+  
+    /*   align-items: center; */
+  
+    /*   justify-content: space-around; */
+  
+  }
+
+  button {
+      background-color: black; 
+      color: white; 
+  }
+  
+   
+  
+  .middle-div {
+  
+    display: flex;
+  
+  /*     align-items: center; */
+  
+      justify-content: space-around;
+  
+  }
+  
+   
+  
+  .bottom-div {
+  
+    display: flex;
+  
+  /*     align-items: center; */
+  
+     
+  
+  }
+  
+   
+  
+  .bottom-butt {
+  
+    margin-left: auto;
+  
+  }
