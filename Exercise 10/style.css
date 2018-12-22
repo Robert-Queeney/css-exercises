@@ -1,0 +1,48 @@
+.main-div{
+
+    display: inline-flex;
+  
+    height: 300px;
+  
+    width: 700px;
+  
+    background-color: grey;
+  
+    color: white;
+  
+  /*   justify-content: space-evenly;  */
+  
+  
+  }
+  
+  .div2 {
+  
+    background-color: black;
+  
+    height: 200px;
+  
+    width: 200px;
+  
+    align-self: center;
+  
+    margin-right: 240px;
+  
+  }
+  
+   
+  
+  .div3 {
+  
+    background-color: black;
+  
+    height: 200px;
+  
+    width: 200px;
+  
+    align-self:center;
+  
+   
+  
+  /*   align-self: flex-end */
+  
+  }

@@ -1,0 +1,46 @@
+.div-wrapper {
+
+    width: 98vw;
+  
+  }
+  
+  .div1{
+  
+    height: 400px;
+  
+    width: 400px;
+  
+    background-color: grey;
+  
+    color: white;
+  
+    float: right;
+  
+  /*   position: relative;  */
+  
+  /*   justify-content: space-evenly;  */
+  
+  
+  }
+  
+  .div2 {
+  
+    background-color: black;
+  
+    height: 200px;
+  
+    width: 200px;
+  
+    color: white;
+  
+  /*   position: absolute;  */
+  
+    float: right;
+  
+    margin-top: 200px;
+  
+    margin-right: -200px;
+  
+   
+  
+  }

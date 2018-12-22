@@ -1,0 +1,58 @@
+.main-div{
+
+    display: inline-flex;
+  
+    height: 600px;
+  
+    width: 250px;
+  
+    background-color: grey;
+  
+    color: white;
+  
+  /*   justify-content: space-evenly;  */
+  
+  
+  }
+  
+  .div2 {
+  
+    background-color: black;
+  
+    height: 200px;
+  
+    width: 200px;
+  
+    align-self:flex-end;
+  
+    margin-left:auto;
+  
+    positon: relative;
+  
+  }
+  
+   
+  
+  .div3 {
+  
+    background-color: white;
+  
+    height: 150px;
+  
+    width: 150px;
+  
+    position: absolute;
+  
+    color: black;
+  
+    margin-top: 435px;
+  
+    margin-left: 90px;
+  
+   
+  
+   
+  
+  /*   align-self: flex-end */
+  
+  }
